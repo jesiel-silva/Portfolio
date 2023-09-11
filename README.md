@@ -2,4 +2,4 @@
 
 Portfólio desenvolvido em NextJs, SIGLE PAGESS APPLICATION (SPA), utilizando react-icon para os icone da página, e estilização foi feita toda em module.css.
 
-Acesse Aqui: 
+Acesse Aqui: https://portfolio-pi-seven-90.vercel.app/
