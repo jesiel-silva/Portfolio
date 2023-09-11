@@ -2,7 +2,7 @@
 
 Portfólio desenvolvido em NextJs, SIGLE PAGE APPLICATION (SPA), utilizando react-icon para os icone da página, e estilização foi feita toda em module.css.
 
-Acesse Aqui: https://portfolio-pi-seven-90.vercel.app/
+Acesse Aqui: https://portfolio-xi-eight-43.vercel.app/
 
 <<<<<<< HEAD
 link do banner: "https://unsplash.com/pt-br/fotografias/m_HRfLhgABo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
