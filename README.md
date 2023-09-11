@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Meu Portfólio</h1>
 
-## Getting Started
+Portfólio desenvolvido em NextJs, SIGLE PAGE APPLICATION (SPA), utilizando react-icon para os icone da página, e estilização foi feita toda em module.css.
 
+<<<<<<< HEAD
 link do banner: "https://unsplash.com/pt-br/fotografias/m_HRfLhgABo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
   
 
@@ -39,3 +40,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+Acesse Aqui: https://portfolio-pi-seven-90.vercel.app/
+>>>>>>> 5df086e773046c35913f778914cd1849b0bd466c
