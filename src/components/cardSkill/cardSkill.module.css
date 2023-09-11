@@ -1,0 +1,52 @@
+.card {
+  width: 16rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  background-color: var(--color-white);
+  border-radius: 8px;
+  box-shadow: var(--bx-shadow);
+
+  padding: 2rem;
+
+  transition: all 0.3s;
+
+  animation: animatedCard  0.5s linear;
+}
+
+.card span{
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.imgSkill {
+  font-size: 5rem;
+}
+
+/* .card:hover{
+  transform: translateY(-10px);
+} */
+
+
+/* Animação */
+@keyframes animatedCard {
+  0% {
+    transform: translateX(250px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 428px){ 
+  .card {
+    width: 100%;
+  }
+}

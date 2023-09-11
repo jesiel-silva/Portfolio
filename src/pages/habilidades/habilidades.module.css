@@ -1,0 +1,47 @@
+.Habilidades {
+  width: 100%;
+  height: 100vh;
+}
+
+.content {
+  height: 100%;
+}
+
+.cardWepper {
+  height: calc(100vh - 16rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.content_card {
+  width: 78%;
+
+  overflow-y: auto;
+
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+
+  padding: 2rem;
+}
+
+@media screen and (min-width: 320px) and (max-width: 428px) {
+  .content_card {
+    width: 100%;
+
+    height: 95%;
+
+    padding-bottom: 2.4rem;
+  }
+}
+
+/* @media screen and (max-width: 768px) {
+  .content_card {
+    width: 100%;
+    justify-content: space-between ;
+  }
+} */

@@ -1,0 +1,16 @@
+.content_Title {
+  text-align: center;
+  padding-top: 8rem;
+}
+
+.content_Title h1 {
+  color: var(--color-black);
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.content_Title p {
+  font-size: 1.6rem;
+  color: var(--color-gray2);
+  margin-bottom: 1.5rem;
+}
