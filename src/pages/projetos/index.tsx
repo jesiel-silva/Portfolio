@@ -19,7 +19,7 @@ export default function Projetos() {
               <div className={styles.card}>
                 <img src='assets/todoList.png' alt='Imagem do projeto' />
                 <div className={styles.detalhes}>
-                  <p>To-do-List - Organize suas tarefas</p>
+                  <p>To-do-List - Em reactJs</p>
                 </div>
                 <div className={styles.descri}>
                   <BotaoLink
@@ -37,7 +37,7 @@ export default function Projetos() {
               <div className={styles.card}>
                 <img src='assets/calc.png' alt='Imagem do projeto' />
                 <div className={styles.detalhes}>
-                  <p className={styles.titleProjeto}>Projeto 2</p>
+                  <p className={styles.titleProjeto}>Calculadora - Em reactJs</p>
                 </div>
                 <div className={styles.descri}>
                   <BotaoLink
